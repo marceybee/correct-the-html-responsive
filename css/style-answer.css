@@ -190,19 +190,11 @@ hr {
 	}
 
 	.main-article {
-		width: 60%;
+		width: 100%;
 		border-radius: 0.6rem;
 		margin: 0;
 	}
 
-	.main-sidebar {
-		width: 40%;
-		border-radius: 0.6rem;
-		margin: 0;
-	}
-	.article-container {
-    display: flex;
-	gap: 20px;
 
-    }
+
 }
